@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-04-14 17:55:37 +0200",
+      "roofed_forest": "2020-04-14 17:55:46 +0200"
+    },
+    "done": false
+  }
+}

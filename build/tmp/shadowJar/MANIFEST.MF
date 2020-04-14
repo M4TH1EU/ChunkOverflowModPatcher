@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+MixinConfigs: mixins.chunkpatcher.json
+FMLCorePluginContainsFMLMod: true
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+

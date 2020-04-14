@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "ch.m4th1eu.chunkpatcher.mixins",
+  "refmap": "mixins.chunkpatcher.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "MixinChunkPatcher"
+  ]
+}

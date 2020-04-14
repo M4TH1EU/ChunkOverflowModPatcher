@@ -1,0 +1,7 @@
+FD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/bookIsUnsigned ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/i
+FD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/bookIsModified ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/s
+FD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/bookPages ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/z
+FD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/book ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/h
+FD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/editingPlayer ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/g
+FD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/bookTitle ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/A
+MD: ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/sendBookToServer (Z)V ch/m4th1eu/chunkpatcher/mixins/MixinChunkPatcher/b (Z)V

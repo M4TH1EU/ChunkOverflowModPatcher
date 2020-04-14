@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "chunkpatcher",
+    "name": "Chunk Overflow Patcher",
+    "description": "This mod fix the chunk overflow glitch",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://mathieubroillet.ch",
+    "updateUrl": "",
+    "authorList": [
+      "M4TH1EU_#0001"
+    ],
+    "credits": "Nobody sry...",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
